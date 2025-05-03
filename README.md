@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daipendency-daipendency-mcp-badge.png)](https://mseep.ai/app/daipendency-daipendency-mcp)
+
 # Daipendency MCP Server
 
 Model Context Protocol (MCP) server for [Daipendency](https://github.com/daipendency/daipendency).
